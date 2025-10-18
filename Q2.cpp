@@ -27,7 +27,7 @@ public:
 
     void display()
     {
-        cout<< "Name: " << name << "\n"
+        cout << "Name: " << name << "\n"
              << " Age: " << age << "\n"
              << " Address: " << address << "\n"
              << endl;
